@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+.button {
+  background-color: theme('colors.blue.500');
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  color: white;
+}
+
+.button:hover {
+  background-color: theme('colors.blue.700');
+}
+
+input{
+  border: 2px solid rgb(255, 0, 0);
+  border-radius: 10px;
+  /* width: px; */
+}
