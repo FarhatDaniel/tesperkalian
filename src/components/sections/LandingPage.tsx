@@ -23,8 +23,7 @@ function LandingPage(){
                                 <p className="font-medium text-lg text-gray-600 max-w-xl mx-auto pb-3">
                                     <i>"Jika ada yang bisa kamu lakukan hari ini, lakukan itu. jangan tunggu hingga besok"</i></p>
                             </div>
-                            <button className="mt-2"><a href=""
-                                className="bg-transparent hover:bg-primary text-primary font-semibold hover:text-white py-2 px-7 border border-primary hover:bg-black rounded-4xl" onClick={() => navigate('/tes')}>Mulai</a>
+                            <button className="mt-2 bg-transparent hover:bg-primary text-primary font-semibold hover:text-white py-2 px-7 border border-primary hover:bg-black rounded-4xl" onClick={() => navigate('/tes')}>Mulai
                             </button>
 
 
